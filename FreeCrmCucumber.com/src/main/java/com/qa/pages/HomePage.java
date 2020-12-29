@@ -58,7 +58,10 @@ public class HomePage extends TestBase
 	public void loginclick1() {
 		loginbtn1.click();	
 	}
-	
+	public void test()
+	{
+		System.out.println("newly added method");
+	}
 }
 
 
